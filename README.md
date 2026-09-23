@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="George Drag. Designer and front-end developer. Chicago." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-banner-dark.png">
+  <img src="assets/github-banner-light.png" alt="George Drag, designer and front-end developer, Chicago. Styled after the Chicago flag: two light blue bars and four red six-pointed stars." width="100%">
 </picture>
 
 For fourteen years I built iOS, Android and web products at a Chicago software consultancy. Small shop, so I worked with clients through the whole process: design, build, testing, launch.
