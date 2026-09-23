@@ -9,26 +9,13 @@ Now I design and build my own.
 
 ## Live
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://brokenews.co"><img src="assets/brokenews-desktop.png" alt="brokenews.co home page: a lead headline above three story cards labeled left, center and right"></a>
-<br><strong><a href="https://brokenews.co">brokenews.co</a></strong><br>
-The same story from the left, the center and the right, side by side.
-</td>
-<td width="50%" valign="top">
-<a href="https://woke1.org"><img src="assets/woke1-desktop.png" alt="woke1.org: the last song played, the artist's portrait and a music video"></a>
-<br><strong><a href="https://woke1.org">woke1.org</a></strong><br>
-A personal radio station. What's playing, and the artist behind it.
-</td>
-</tr>
-</table>
+<a href="https://brokenews.co"><img src="assets/brokenews.png" alt="brokenews.co on a desktop browser and a phone: a lead headline above story cards labeled left, center and right" width="100%"></a>
 
-<p align="center">
-<img src="assets/brokenews-mobile.png" alt="brokenews.co on a phone" width="24%">
-&nbsp;
-<img src="assets/woke1-mobile.png" alt="woke1.org on a phone" width="24%">
-</p>
+**[brokenews.co](https://brokenews.co)**. The same story from the left, the center and the right, side by side.
+
+<a href="https://woke1.org"><img src="assets/woke1.png" alt="woke1.org on a desktop browser and a phone, playing Back To Oz by Sufjan Stevens, with his portrait, the album art and a music video" width="100%"></a>
+
+**[woke1.org](https://woke1.org)**. A personal radio station. What's playing, and the artist behind it.
 
 Two products, two visual identities, one method: phone width first, accessibility checked against WCAG as part of the build, then iterate on what real use shows.
 
