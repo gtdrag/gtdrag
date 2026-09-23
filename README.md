@@ -9,11 +9,11 @@ Now I design and build my own.
 
 ## Live
 
-<a href="https://brokenews.co"><img src="assets/brokenews.png" alt="brokenews.co on a desktop browser and a phone: a lead headline above story cards labeled left, center and right" width="100%"></a>
+<a href="https://brokenews.co"><img src="assets/brokenews-showcase-2.png" alt="brokenews.co on a desktop browser and a phone: a lead headline above story cards labeled left, center and right" width="100%"></a>
 
 **[brokenews.co](https://brokenews.co)**. The same story from the left, the center and the right, side by side.
 
-<a href="https://woke1.org"><img src="assets/woke1.png" alt="woke1.org on a desktop browser and a phone, playing Back To Oz by Sufjan Stevens, with his portrait, the album art and a music video" width="100%"></a>
+<a href="https://woke1.org"><img src="assets/woke1-showcase-2.png" alt="woke1.org on a desktop browser and a phone, playing Back To Oz by Sufjan Stevens, with his portrait, the album art and a music video" width="100%"></a>
 
 **[woke1.org](https://woke1.org)**. A personal radio station. What's playing, and the artist behind it.
 
