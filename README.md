@@ -3,7 +3,7 @@
   <img src="assets/banner-light.svg" alt="George Drag. Designer and front-end developer. Chicago." width="100%">
 </picture>
 
-For fifteen years I built iOS, Android and web products at a Chicago software consultancy. Small shop, so I worked with clients through the whole process: design, build, testing, launch.
+For fourteen years I built iOS, Android and web products at a Chicago software consultancy. Small shop, so I worked with clients through the whole process: design, build, testing, launch.
 
 Now I design and build my own.
 
