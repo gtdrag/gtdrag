@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="George Drag. Designer and front-end developer. Chicago.">
+  <rect width="1200" height="300" fill="#151B20"/>
+  <rect x="0" y="292" width="1200" height="8" fill="#2F8C7B"/>
+  <g transform="translate(1060 150)" fill="#D2543A">
+    <polygon points="0,-44 12,-20 38,-22 22,0 38,22 12,20 0,44 -12,20 -38,22 -22,0 -38,-22 -12,-20"/>
+  </g>
+  <text x="72" y="148" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2" fill="#EAEDEF">George Drag</text>
+  <text x="76" y="200" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="22" letter-spacing="3" fill="#9AA6AE">DESIGNER AND FRONT-END DEVELOPER · CHICAGO</text>
+</svg>

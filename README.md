@@ -1,33 +1,41 @@
-# George Drag
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="George Drag. Designer and front-end developer. Chicago." width="100%">
+</picture>
 
-Full-stack mobile engineer building on decentralized protocols, React Native, and TypeScript.
+For fifteen years I built iOS, Android and web products at a Chicago software consultancy. Small shop, so I worked with clients through the whole process: design, build, testing, launch.
 
-## Current Focus
+Now I design and build my own.
 
-**Decentralized social infrastructure** — Building tools on [NOSTR](https://nostr.com/) and the [AT Protocol](https://atproto.com/) (Bluesky). I'm drawn to protocols that give users ownership of their data and identity, and I like building the bridges and clients that make those protocols accessible.
+## Live
 
-**React Native + native layer work** — Production mobile apps with deep native integration. Comfortable debugging Xcode build chains, Android Keystore performance, and C++ storage engines like MMKV. I care about the parts of mobile that happen below the JavaScript layer.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://brokenews.co"><img src="assets/brokenews-desktop.png" alt="brokenews.co home page: a lead headline above three story cards labeled left, center and right"></a>
+<br><strong><a href="https://brokenews.co">brokenews.co</a></strong><br>
+The same story from the left, the center and the right, side by side.
+</td>
+<td width="50%" valign="top">
+<a href="https://woke1.org"><img src="assets/woke1-desktop.png" alt="woke1.org: the last song played, the artist's portrait and a music video"></a>
+<br><strong><a href="https://woke1.org">woke1.org</a></strong><br>
+A personal radio station. What's playing, and the artist behind it.
+</td>
+</tr>
+</table>
 
-**AI-assisted developer tooling** — Experimenting with automated build pipelines that use AI agents to go from idea to deployed software.
+<p align="center">
+<img src="assets/brokenews-mobile.png" alt="brokenews.co on a phone" width="24%">
+&nbsp;
+<img src="assets/woke1-mobile.png" alt="woke1.org on a phone" width="24%">
+</p>
 
-## Selected Projects
+Two products, two visual identities, one method: phone width first, accessibility checked against WCAG as part of the build, then iterate on what real use shows.
 
-| Project | What it does |
-|---------|-------------|
-| [dumpstr](https://github.com/gtdrag/dumpstr) | Cross-platform content bridge — pulls from TikTok & Instagram, publishes to NOSTR relays |
-| [gramstr](https://github.com/gtdrag/gramstr) | NOSTR social client for desktop |
-| [lobstream](https://github.com/gtdrag/lobstream) | Real-time AT Protocol firehose visualizer — Bluesky posts as falling rain |
-| [boop](https://github.com/gtdrag/boop) | Opinionated idea-to-software pipeline with AI-assisted DevOps |
-| [giglet](https://github.com/gtdrag/giglet) | React Native + TypeScript mobile app for gig drivers |
+## At home
 
-## Tech
+**[Boop](https://github.com/gtdrag/boop)**. A private assistant that runs on two small computers in my house. One memory of every project, decision and goal I have, and a second opinion on what matters next.
 
-**Mobile**: React Native, TypeScript, Expo, Swift, Kotlin, MMKV, Keychain  
-**Backend**: Node.js, Python, FastAPI, PostgreSQL  
-**Protocols**: NOSTR (NIP relay integration), AT Protocol, WebSockets, P2P  
-**Infra**: Docker, Railway, Vercel, CI/CD automation
+## Tools
 
-## Also Building (Private)
-
-- **VinylVision** — Computer vision app for vinyl record identification. React Native + FastAPI + ML embeddings pipeline with 200K+ record fingerprints
-- **RotoGPT** — Real-time AI sports analytics engine with React Native frontend and ML prediction models
+HTML · CSS · TypeScript · React · React Native · Swift · Python
